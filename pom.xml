@@ -4,7 +4,7 @@
 
   <groupId>net.nihilanth.demo</groupId>
   <artifactId>awscli-archetype</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
 
   <name>awscli-archetype</name>
